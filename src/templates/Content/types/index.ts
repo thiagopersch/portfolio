@@ -31,6 +31,7 @@ export const projectData = (): ProjectCardProps[] => [
     type: 'public',
     imageUrl: '/storage/integration-totvs.webp',
     githubUrl: 'https://github.com/thiagopersch/integracao-totvs',
+    demoUrl: 'https://integracao-totvs.vercel.app/',
     delay: 0.2,
   },
   {
